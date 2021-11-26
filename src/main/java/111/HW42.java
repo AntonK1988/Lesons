@@ -1,5 +1,3 @@
-package src.com.company;
-
 import static java.lang.System.out;
 /*
 public class HW42 {

@@ -1,4 +1,3 @@
-package src.com.company;//package com.company;
 //
 //public class PhoneNumber {
 ////    private static String numType;
